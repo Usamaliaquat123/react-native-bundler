@@ -2,5 +2,12 @@
   "name": "React-Native-Bundler",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "metro": "^0.56.4",
+    "metro-core": "^0.56.4"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
